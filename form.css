@@ -1,0 +1,42 @@
+.heading{
+  text-align: center;
+}
+
+
+#inlineFormInput{
+margin-top: 44px;
+width: 50%;
+margin-left: 10px;
+display: inline;
+}
+.abc{
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+
+}
+#add{
+
+	width: 70%;
+	margin-bottom: 5px;
+	margin-top: 19px;
+}
+#others{
+
+	width: 70%;
+	margin-bottom: 5px;
+	margin-top: 12px;
+
+}
+.feedback{
+	    margin-left: 18px;
+    margin-top: 24px;
+}
+
+.butt{
+	    margin-left: 88%;
+}
+input.ng-invalid{
+
+	border: 1px solid black;
+}
